@@ -1,0 +1,40 @@
+# Qt 项目文件
+*.pro.user
+*.user
+*.pro.user.*
+*.creator.user*
+*.creator.user
+*.creator
+*.files
+*.includes
+*.config
+
+# 编译生成的文件
+build/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# moc 自动生成的文件
+moc_*.cpp
+moc_*.h
+*.moc
+ui_*.h
+qrc_*.cpp
+
+# 临时文件
+*.log
+*.autosave
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Qt Creator 缓存
+.qtc_clangd/
+.qtc_qmlls/

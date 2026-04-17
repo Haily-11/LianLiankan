@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/LLK.ico</file>
+        <file>res/fruit_bg.bmp</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>res/llk_main.bmp</file>
+        <file>res/fruit_bg.bmp</file>
+        <file>res/fruit_element.bmp</file>
+        <file>res/fruit_mask.bmp</file>
+    </qresource>
+</RCC>
